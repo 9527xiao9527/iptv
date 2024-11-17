@@ -121,6 +121,7 @@ NewTV-动作电影, http://192.168.1.8:35455/itv/1000000004000018653.m3u8?cdn=ys
 
 河北综合,#genre#
 河北农民,https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1731745955&k=94fdc8753a6afc7492d4bcfd162a8393
+河北农民, http://101.72.127.38:808/tsfile/live/1004_1.m3u8
 
 斗鱼,#genre#
 【RM-点播】点播！模式-24H欢乐不断,http://192.168.1.8:35455/douyu/131977

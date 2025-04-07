@@ -120,7 +120,7 @@ NewTV-超级电影, http://192.168.1.8:35455/itv/1000000003000012426.m3u8?cdn=ys
 NewTV-动作电影, http://192.168.1.8:35455/itv/1000000004000018653.m3u8?cdn=ystenlive
 
 河北综合,#genre#
-河北农民,https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1744059000&k=07371d73904d34da73984fd83ffe1f77
+河北农民,https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1744062600&k=590c0076ff6e8e48595c82935ebf3a58
 河北农民, http://101.72.127.38:808/tsfile/live/1004_1.m3u8
 
 斗鱼,#genre#

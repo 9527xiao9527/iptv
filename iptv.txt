@@ -229,4 +229,4 @@ http://192.168.1.8:35455/itv/3000000010000027691.m3u8
 http://192.168.1.8:35455/itv/3000000010000031669.m3u8
 
 #EXTINF:-1 tvg-name="农民频道" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png" group-title="河北综合",农民频道
-https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1745376600&k=a46301782025cdbaa17d944f77e3e9af
+https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1745380200&k=130f0a10c485708864bf72c2e88c594d

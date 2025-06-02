@@ -195,6 +195,24 @@ http://192.168.1.8:35455/bptv/10000100000000050000000004270524.m3u8
 #EXTINF:-1 tvg-id="北京体育休闲-4K" tvg-name="北京体育休闲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京体育休闲.png" group-title="4K频道",北京体育休闲-4K
 http://192.168.1.8:35455/bptv/10000100000000050000000004270525.m3u8
 
+#EXTINF:-1 tvg-id="久了旧知" tvg-name="久了旧知" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙轮播",久了旧知
+http://192.168.1.8:35455/huya/310926
+#EXTINF:-1 tvg-id="余小二哦" tvg-name="余小二哦" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙轮播",余小二哦
+http://192.168.1.8:35455/huya/10279885
+#EXTINF:-1 tvg-id="地狱ヽ妖妖" tvg-name="地狱ヽ妖妖" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙轮播",地狱ヽ妖妖
+http://192.168.1.8:35455/huya/11352869
+#EXTINF:-1 tvg-id="我爱黑科技" tvg-name="我爱黑科技" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙轮播",我爱黑科技
+http://192.168.1.8:35455/huya/11602068
+#EXTINF:-1 tvg-id="大侠" tvg-name="大侠" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙轮播",大侠
+http://192.168.1.8:35455/huya/11602085
+#EXTINF:-1 tvg-id="春江花朝吹香夢" tvg-name="春江花朝吹香夢" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙轮播",春江花朝吹香夢
+http://192.168.1.8:35455/huya/26355791
+#EXTINF:-1 tvg-id="马呜呜" tvg-name="马呜呜" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙轮播",马呜呜
+http://192.168.1.8:35455/huya/29982631
+#EXTINF:-1 tvg-id="老问我东西南北" tvg-name="老问我东西南北" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙轮播",老问我东西南北
+http://192.168.1.8:35455/huya/30080244
+#EXTINF:-1 tvg-id="雪雪姐tu" tvg-name="雪雪姐tu" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙轮播",雪雪姐tu
+http://192.168.1.8:35455/huya/30585957
 #EXTINF:-1 tvg-id="电影_星爷" tvg-name="电影_星爷" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙轮播",电影_星爷
 http://192.168.1.8:35455/huya/11342412
 #EXTINF:-1 tvg-id="电影_英叔" tvg-name="电影_英叔" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙轮播",电影_英叔
@@ -401,4 +419,4 @@ http://192.168.1.8:35455/itv/3000000010000031669.m3u8
 
 
 #EXTINF:-1 tvg-name="农民频道" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png" group-title="河北综合",农民频道
-https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1748843400&k=0658af6f0ade6353ca4294cbaf499e49
+https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1748847000&k=3274248fa1dc24e69a782b14e4ac807a

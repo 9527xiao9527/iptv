@@ -356,4 +356,4 @@ http://192.168.1.8:35455/huya/11274154
 
 
 #EXTINF:-1 tvg-name="农民频道" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png" group-title="河北综合",农民频道
-https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1792885801&k=cc856e3d8a596f52169999405974252e
+https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1792889400&k=90a4ca0005ca7633c9055089304d53c3
